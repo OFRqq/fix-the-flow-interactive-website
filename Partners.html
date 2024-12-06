@@ -13,17 +13,17 @@
   <header>
     <nav id="headermenu"> <!--navigation menu-->
       <div class="menu-toggle color4">
-        <img class='menu-icon' id="mobile-menu" src="assets/open-menu.svg">
-        <a href="index.html">
-          <img height="50px" src="assets/logo.svg">
+        <img class='menu-icon' id="mobile-menu" src="assets/open-menu.svg" tabindex="0" alt="burger menu mobile">
+        <a href="index.html" aria-label="link home">
+          <img height="50px" src="assets/logo.svg" alt="image logo Bieb In Bloei">
         </a>
       </div>
       <ul class="nav-links" id="nav-links">
-        <li><a href="index.html" class="a-link">Home</a></li>
-        <li><a href="#" class="a-link">De Geveltuin</a></li>
-        <li><a href="#" class="a-link">Stekjes & Zaadjes</a></li>
-        <li><a href="Partners.html" class="a-link">Partners </a></li>
-        <li><a href="#" class="a-link">Contact</a></li>
+        <li><a href="index.html" class="a-link" tabindex="-1" aria-label="link-Home">Home</a></li>
+        <li><a href="#" class="a-link" tabindex="-1" aria-label="link De Geveltuin">De Geveltuin</a></li>
+        <li><a href="#" class="a-link" tabindex="-1" aria-label="link Stekjes & Zaadjes">Stekjes & Zaadjes</a></li>
+        <li><a href="Partners.html" tabindex="-1" class="a-link" aria-label="link Partners">Partners </a></li>
+        <li><a href="#" tabindex="-1" class="a-link" aria-label="link Contact">Contact</a></li>
       </ul>
     </nav>
   </header>
@@ -48,7 +48,7 @@
             <p>Bieb & Bloei is een initiatief van de Openbare Bibliotheek Amsterdam (OBA).
               In de projecten van Buurtcampus Oost benutten we de kennis en creativiteit van de studenten en de locaties
               en publieksprogramma’s van de bibliotheek.</p>
-            <a href="https://www.oba.nl/">Oba</a>
+            <a href="https://www.oba.nl/" aria-label="link Oba">Oba</a>
           </div>
           <div class="slide" id="slide2">
             <h1>Hva</h1>
@@ -56,14 +56,14 @@
             <p>Samenwerking HvA
               Bieb & Bloei is een initiatief van de Hogeschool van Amsterdam (HvA). In de projecten van Hva benutten we
               de kennis en creativiteit van de studenten en de locaties en publieksprogramma’s van de bibliotheek.</p>
-            <a href="https://www.hva.nl/">hva</a>
+            <a href="https://www.hva.nl/" aria-label="link Hva">Hva</a>
           </div>
           <div class="slide" id="slide3">
             <h1>Tugla85</h1>
             <h5>Samenwerking Tugla85</h5>
             <p>Bieb & Bloei werkt samen met Tugla85. In de projecten van Tugla85 benutten we de kennis en creativiteit.
               Zij helpen ons met het organiseren van workshops voor studenten.</p>
-            <a href="https://www.tugela85.nl/">tugela85</a>
+            <a href="https://www.tugela85.nl/" aria-label="link Tugela85">Tugela85</a>
           </div>
         </div>
         <div class="dots-btn-container"><!--slideshow ADDED-->
@@ -71,7 +71,7 @@
           <span class="dot" data-index="1"></span>
           <span class="dot" data-index="2"></span>
         </div>
-        <button class="arrow" id="nextBtn">Next</button>
+        <button class="arrow" id="nextBtn" aria-label="next button">Next</button>
       </div>
     </div>
   </section>
