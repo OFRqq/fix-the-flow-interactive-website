@@ -1,4 +1,4 @@
-/*burger menu unfolding*/
+/*burger menu uitvouwen*/
 document.querySelectorAll('input[type=radio]').forEach((radio) => {
   radio.addEventListener('keydown', (e) => {
     if (e.key === 'Tab') {
@@ -15,14 +15,14 @@ menuToggle.addEventListener('click', () => {
 });
 
 
-/*slideshow ADDED*/
+/*slideshow (ADDED bronnen)*/
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
 const nextBtn = document.getElementById('nextBtn');
 
 let currentIndex = 0;
 
-// Function to update slides and dots
+/*update slides en dots*/
 function updateSlides(index) {
   slides.forEach((slide) => slide.classList.remove('active'));
   dots.forEach((dot) => dot.classList.remove('active'));
@@ -31,7 +31,7 @@ function updateSlides(index) {
   dots[index].classList.add('active');
 }
 
-// Function to go to the next slide
+/*to next slide*/
 function goToNextSlide() {
   currentIndex = (currentIndex + 1) % slides.length; // Loop back to the first slide
   updateSlides(currentIndex);
