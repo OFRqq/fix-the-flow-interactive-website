@@ -15,6 +15,10 @@ html {
     display: none;
 }
 
+.logo {
+    height:50px;
+    }
+
 @media (max-width: 768px) {
 
     body {
@@ -104,17 +108,18 @@ html {
             overflow-x: hidden;
 
             h1 {
-                color: var(--primary-background-color);
+                color: var(--secondary-highlight-color);
                 font-family: var(--font-header);
             }
 
-            h5 {
-                color: var(--primary-background-color);
+            h2 {
+                color: var(--secondary-highlight-color);
                 --font-sub-header: 'Poppins-Bold', sans-serif;
+                font-size:larger;
             }
 
             p {
-                color: white;
+                color:var(--secondary-highlight-color);
                 font-family: var(--font-paragraph);
             }
 
@@ -171,9 +176,6 @@ html {
                 text-align: left;
             }
 
-            a {
-               /*ADD STYLLING*/
-            }
         }
 
         .slide.active {
