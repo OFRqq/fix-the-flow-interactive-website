@@ -60,7 +60,7 @@ height:50px;
             margin: 20px 0px;
             padding: 20px;
             box-shadow: 0px 3px 7px 13px rgba(0, 0, 0, 0.164);
-            border-radius: var(--rounded)
+            border-radius: var(--rounded);
         }
 
         /*ul nava-links li styling */
@@ -82,13 +82,13 @@ height:50px;
             padding: 5px 10px 5px 10px;
             background-color: var(--secondary-highlight-color);
             color: var(--primary-background-color);
-            border-radius: var(--rounded)
+            border-radius: var(--rounded);
         }
 
         /*hover btn effect*/
         ul.nav-links li a:hover {
             background-color: var(--button-active);
-            transform: scale(1.2)
+            transform: scale(1.2);
         }
 
         /*mobile-menu popup transform*/
