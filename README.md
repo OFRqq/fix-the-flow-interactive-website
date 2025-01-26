@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/a31492b5-fb12-4645-bad0-2c5a8c022bcc
 
 
 
-**Functie** slides | Dit is een slide functie waarbij je via een button door meerdere pagina's heen kan scrollen, de feedforward is dat de knop tekst erop heeft staan met het woord 'next', hierdoor weet de gebruik dat deze circkle een volgende pagina te bieden heeft, ook zie je onderaan de div 3 dots. Deze weergeeft 3 pagina's waarbij de kleur aangeeft op welke pagina je zit en hoeveel er nog te gaan zijn. Door te klikken ga je door de slides heen en krijg je informatie over elke partner van Bieb In Bloei.
+**Functie** slides | Dit is een slide functie waarbij je via een button door meerdere pagina's heen kan scrollen, de feedforward is dat de knop tekst erop heeft staan met het woord 'next', hierdoor weet de gebruik dat deze knop een volgende pagina te bieden heeft, ook zie je onderaan de div 3 dots. Deze weergeeft 3 pagina's waarbij de kleur aangeeft op welke pagina je zit en hoeveel er nog te gaan zijn. Door te klikken ga je door de slides heen en krijg je informatie over elke partner van Bieb In Bloei.
 
 https://github.com/user-attachments/assets/48abe2ec-a74a-4c05-9f59-8a44f2bc3581
 
