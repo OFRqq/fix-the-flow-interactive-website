@@ -6,6 +6,14 @@
 
 
 
+https://github.com/user-attachments/assets/a31492b5-fb12-4645-bad0-2c5a8c022bcc
+
+
+
+https://github.com/user-attachments/assets/48abe2ec-a74a-4c05-9f59-8a44f2bc3581
+
+
+
 
 ## Bieb In Bloei![Logo (1)](https://github.com/user-attachments/assets/ec09d484-d12f-448e-b94a-bf76deaa058b)
 Bieb in Bloei is een digitaal platform met daarop een overzicht van de duurzame projecten van de Buurtcampus Oost.
