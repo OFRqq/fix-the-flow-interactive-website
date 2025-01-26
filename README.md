@@ -14,7 +14,7 @@ Bij de buurtcamus draaien verschillende duurzame projecten; De Stekjes bieb, De 
 ## kenmerken 
 
 ### ontwerpkeuzes
-**Functie** | dit is een uitklapbare navigation menu (burger menu), men herkent deze knop als de navigatie opener voor mobile, dat is in principe de feedforward, de feedback is dat het menu in je beeld uitvouwt met een animatie en je kan kiezen naar welke pagina je wilt gaan. Het filmpje laat meer zien over hoe de burger menu functioneerd en de animatie bij het uitklappen. 
+**Functie** burger menu | dit is een uitklapbare navigation menu (burger menu), men herkent deze knop als de navigatie opener voor mobile, dat is in principe de feedforward, de feedback is dat het menu in je beeld uitvouwt met een animatie en je kan kiezen naar welke pagina je wilt gaan. Het filmpje laat meer zien over hoe de burger menu functioneerd en de animatie bij het uitklappen. 
 
 Ik heb expres niet gekozen voor een hover animatie wanneer je over de burger menu gaat omdat dit eigenlijk niet noodzakelijk is, op telefoon hover je namelijk in principe niet en klik je alleen maar. De animatie behoort tot de slow-in & slow-out categorie van interactie principes, [lees meer](https://github.com/fdnd-task/the-startup-responsive-interactive-website/blob/main/docs/programming-user-interaction.md#opdracht-onderzoek-de-principes-30-minuten)
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/a31492b5-fb12-4645-bad0-2c5a8c022bcc
 
 
 
-**Functie** | Dit is een slide functie waarbij je via een button door meerdere pagina's heen kan scrollen, de feedforward is dat de knop tekst erop heeft staan met het woord 'next', hierdoor weet de gebruik dat deze circkle een volgende pagina te bieden heeft, ook zie je onderaan de div 3 dots. Deze weergeeft 3 pagina's waarbij de kleur aangeeft op welke pagina je zit en hoeveel er nog te gaan zijn. Door te klikken ga je door de slides heen en krijg je informatie over elke partner van Bieb In Bloei.
+**Functie** slides | Dit is een slide functie waarbij je via een button door meerdere pagina's heen kan scrollen, de feedforward is dat de knop tekst erop heeft staan met het woord 'next', hierdoor weet de gebruik dat deze circkle een volgende pagina te bieden heeft, ook zie je onderaan de div 3 dots. Deze weergeeft 3 pagina's waarbij de kleur aangeeft op welke pagina je zit en hoeveel er nog te gaan zijn. Door te klikken ga je door de slides heen en krijg je informatie over elke partner van Bieb In Bloei.
 
 https://github.com/user-attachments/assets/48abe2ec-a74a-4c05-9f59-8a44f2bc3581
 
