@@ -10,6 +10,7 @@ Bieb in Bloei is een digitaal platform met daarop een overzicht van de duurzame 
 De Buurtcampus is een dynamische, laagdrempelige plek waar iedereen zich welkom en uitgenodigd voelt om kennis op te doen, te ontwikkelen en te delen. Met als doel: samen de buurt duurzamer, gezonder en inclusiever maken.
 
 Bij de buurtcamus draaien verschillende duurzame projecten; De Stekjes bieb, De Zadenbieb en de Geveltuin, er komen nog meer duurzame projecten bij in de toekomst. Op het platform Bieb in Bloei krijgen deze projecten een gezicht. Bij de opdracht van Bieb In Bloei maak ik gebruik van html, css, js, figma bestanden en verschillende soorten assets.
+![image](https://github.com/user-attachments/assets/f7ef63c7-63fb-4c28-9e60-085d7258f3d1)
 
 ## kenmerken 
 
