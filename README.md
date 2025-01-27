@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/48abe2ec-a74a-4c05-9f59-8a44f2bc3581
 - [Live website](https://ofrqq.github.io/fix-the-flow-interactive-website/)
 - [Buurtcampus-Oost](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge)
 - [stylesheet](https://kimnikitaschijf.github.io/look-and-feel-styleguide/)
+- [Figma](https://www.figma.com/design/wuJw9P2IonvOjXRfL3E6jN/Bieb-In-Bloei?node-id=6019-2&t=fsqqbdOyUxnispND-1)
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
